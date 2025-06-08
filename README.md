@@ -19,17 +19,6 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a></p>
 ###
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img 
-    alt="Pacman-style contribution graph" 
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" 
-    style="width: 100%; max-width: 100%;">
-</picture>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino contribution graph" width="100%">
 
 ###
